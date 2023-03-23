@@ -1,0 +1,11 @@
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\bin\Debug\Calculadora de Equação do Segundo Grau.exe.config
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\bin\Debug\Calculadora de Equação do Segundo Grau.exe
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\bin\Debug\Calculadora de Equação do Segundo Grau.pdb
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora de Equação do Segundo Grau.csproj.AssemblyReference.cache
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora de Equação do Segundo Grau.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora_de_Equação_do_Segundo_Grau.Form1.resources
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora_de_Equação_do_Segundo_Grau.Properties.Resources.resources
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora de Equação do Segundo Grau.csproj.GenerateResource.cache
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora de Equação do Segundo Grau.csproj.CoreCompileInputs.cache
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora de Equação do Segundo Grau.exe
+D:\Documentos\#Projetos C# Visual Studio 2022\Calculadora de Equação do Segundo Grau\Calculadora de Equação do Segundo Grau\obj\Debug\Calculadora de Equação do Segundo Grau.pdb
